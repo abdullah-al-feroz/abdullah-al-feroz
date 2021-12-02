@@ -5,17 +5,13 @@
 I'm Firoz from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native. I also enjoy c#, asp.net, asp.net core, MVC, API in general.
 
 Skills and Experience:
-⚛ Reeact
-*💻 C#
-*💻 asp.net
-*💻 MVC
-*💻 asp.net core
-*💻 MS SQL
-*💻 API
-
-
-- 🔭 I’m currently working on Xeon Technology Ltd. 
-- 🌱 I’m currently learning React js 
+-⚛ React
+-*💻 C#
+-*💻 asp.net
+-*💻 MVC
+-*💻 asp.net core
+-*💻 MS SQL
+-*💻 API
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdullah-al-feroz)  
