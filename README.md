@@ -35,7 +35,7 @@ Skills and Experience:
 </p>
 
 ## ❤ Views and Followers
-![Profile views](https://gpvc.arturio.dev/abdullah-al-feroz)  
+<a href="https://github.com/abdullah-al-feroz/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abdullah-al-feroz">
 </a>
 <a href="https://github.com/abdullah-al-feroz?tab=followers"><img src="https://img.shields.io/github/followers/abdullah-al-feroz?label=Followers&style=social" alt="GitHub Badge"></a>
