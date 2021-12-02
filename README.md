@@ -1,7 +1,7 @@
 ### Hi 👋, I am Md. Abdullah-Al Firoz
 #### Full Stack Developer.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdullah-al-feroz)  
+![Profile views](https://gpvc.arturio.dev/abdullah-al-feroz)   
 
 I'm Firoz from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native. I also enjoy c#, asp.net, asp.net core, MVC, API in general.
 
