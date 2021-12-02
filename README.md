@@ -12,7 +12,7 @@ Skills and Experience:
 *💻 asp.net core
 *💻 MS SQL
 *💻 API
-C#/ Asp.net / Asp.net core / API / MS SQL
+
 
 - 🔭 I’m currently working on Xeon Technology Ltd. 
 - 🌱 I’m currently learning React js 
