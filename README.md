@@ -1,10 +1,18 @@
-### Hi there 👋, my name is Md. Abdullah-Al Firoz
+### Hi 👋, I am Md. Abdullah-Al Firoz
 #### Full Stack Developer.
-![Full Stack Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I'm Firoz from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native. I also enjoy c#, asp.net, asp.net core, MVC, API in general.
 
-Skills: C#/ Asp.net / Asp.net core / API / MS SQL
+Skills and Experience:
+8⚛ Reeact
+*💻 C#
+*💻 asp.net
+*💻 MVC
+*💻 asp.net core
+*💻 MS SQL
+*💻 API
+C#/ Asp.net / Asp.net core / API / MS SQL
 
 - 🔭 I’m currently working on Xeon Technology Ltd. 
 - 🌱 I’m currently learning React js 
