@@ -5,7 +5,7 @@
 I'm Firoz from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native. I also enjoy c#, asp.net, asp.net core, MVC, API in general.
 
 Skills and Experience:
-8⚛ Reeact
+⚛ Reeact
 *💻 C#
 *💻 asp.net
 *💻 MVC
