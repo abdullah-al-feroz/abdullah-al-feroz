@@ -27,8 +27,8 @@ Skills and Experience:
 
 <div align="center">
   <a href="https://github.com/abdullah-al-feroz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-feroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-feroz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullah-al-feroz)  
