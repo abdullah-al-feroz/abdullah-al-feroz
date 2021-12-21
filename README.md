@@ -31,8 +31,7 @@ Skills and Experience:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-feroz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullah-al-feroz&show_icons=true)
-  
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullah-al-feroz)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-al-feroz)  
