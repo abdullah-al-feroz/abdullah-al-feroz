@@ -3,7 +3,7 @@
 <p align="center"> 
     <img src="https://visitor-badge.laobi.icu/badge?page_id=tanvirfaysal11" alt="Visitor"/>
     <img src="https://komarev.com/ghpvc/?username=abdullah-al-feroz" alt="abdullah-al-feroz"/>       
-    <a href="https://github.com/abdullah-al-feroz?tab=repositories" target="_blank"><img src="" alt="Repos"/></a> 
+    <a href="https://github.com/abdullah-al-feroz?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/abdullah-al-feroz" alt="Repos"/></a> 
     <img src="https://badges.pufler.dev/years/abdullah-al-feroz" alt="Active_Years"/>  
     <a href="https://github.com/tanvir-faysal-xeon/abdullah-al-feroz" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/abdullah-al-feroz" alt="commits"/> 
     <a href="https://github.com/abdullah-al-feroz?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/abdullah-al-feroz?color=4C1&logo=github"></a>
