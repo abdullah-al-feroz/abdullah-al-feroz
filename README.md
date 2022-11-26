@@ -220,9 +220,15 @@ const abdullah-al-feroz = {
   <img height="200em" width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-feroz&layout=compact&langs_count=7&theme=dracula"/>
 </p> -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullah-al-feroz)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullah-al-feroz)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-al-feroz)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-al-feroz)   -->
+
+### ⚡ &nbsp;Recent GitHub Activity
+  
+<a href="https://github.com/abdullah-al-feroz"><img alt="firoz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abdullah-al-feroz&custom_title=Firoz's%20Contribution%20Graph&theme=react-dark" /></a>
+   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 
