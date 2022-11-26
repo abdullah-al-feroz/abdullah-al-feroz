@@ -215,15 +215,6 @@ const abdullah-al-feroz = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 
-<!-- <p align="left"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-feroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-feroz&layout=compact&langs_count=7&theme=dracula"/>
-</p> -->
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullah-al-feroz)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-al-feroz)   -->
-
 ### ⚡ &nbsp;Recent GitHub Activity
   
 <a href="https://github.com/abdullah-al-feroz"><img alt="firoz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abdullah-al-feroz&custom_title=Firoz's%20Contribution%20Graph&theme=react-dark" /></a>
@@ -233,13 +224,12 @@ const abdullah-al-feroz = {
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="30px" height="30px"></a>
 </h3> 
-
-## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://stackoverflow.com/users/17848207/firoz"><img src="https://icons8.com/icon/FVRXv9YqSjNy/stack-overflow-is-a-question-and-answer-site-for-professional"/></a>
 </p>
 
 ## ❤ Views and Followers
