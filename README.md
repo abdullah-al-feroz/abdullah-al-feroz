@@ -179,6 +179,29 @@
 
 ---
 
+### :boy: A little more about me:
+
+```javascript
+const abdullah-al-feroz = {
+   name: 'Abdullah-Al Firoz',
+   pronouns: 'He' | 'Him',
+   languageSpoken: ['en_US', 'bn_BD'],
+   code: ['Javascript', 'HTML', 'CSS'],
+   askMeAbout: ['web dev', 'tech', 'designer'],
+   technologies: {
+      web: {
+         frontEnd: ['ReactJS', 'NextJS', 'Bootstrap', 'Tailwind CSS'],
+         backEnd: ['ASP .Net', 'GraphQL',],
+      },
+      databases: ['MySql', 'MSSql'],
+      vps: ['DigitalOcean']
+   },
+   currentFocus: 'Software Development',
+};
+```
+
+---
+
  
 
 <p align="left"> 
