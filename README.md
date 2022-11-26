@@ -230,7 +230,9 @@ const abdullah-al-feroz = {
    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
+<div align="center">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="30px" height="30px"></a>
+</h3> 
 
 ## Connect with me:
 <p align="left">
