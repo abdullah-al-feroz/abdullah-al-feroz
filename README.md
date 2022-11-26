@@ -20,8 +20,165 @@
 
 ---
 
-## 🚀 Languages and Tools:
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p><br>
+### :blush: Talking about Personal Stuffs:
+
+<img align="right" height="250" width="400" alt="Abdullah-Al Firoz" src="assets/profile.gif" />
+
+-  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
+-  📰 &nbsp; Reading tech blogs whenever possible.
+-  🍕 &nbsp; Travelling, meetups & tech events.
+-  🚀 &nbsp; I’m currently learning Full Stack Web Development.
+-  :computer: &nbsp; Most written code line `console.log("hello world");`
+-  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abdullah-al-feroz ).
+-  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
+<!-- -  📝 &nbsp; Checkout my [Website](https://tanvirfaysal11.github.io/). -->
+
+---
+
+### :dart: Languages and Tools:
+
+> Tools, languages, and other things that I like to work with.
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
+      </a>
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="48" height="48" alt="Microsoft .Net" />
+      </a>
+      <br>Microsoft .Net
+    </td>
+    </tr>
+    <tr>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.kindpng.com/picc/m/765-7652239_react-native-svg-logo-hd-png-download.png" width="48" height="48" alt="React Native" />
+      </a>
+      <br>React Native
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="assets/mui.png" width="48" height="48" alt="Material Ui" />
+      </a>
+      <br>Material Ui
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="48" height="48" alt="Wordpress" />
+      </a>
+      <br>Wordpress
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://img.icons8.com/color/480/000000/woocommerce.png" width="48" height="48" alt="WooCommerce" />
+      </a>
+      <br>WooCommerce
+    </td>
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg" width="48" height="48" alt="Digital Ocean" />
+      </a>
+      <br>Digital Ocean
+    </td>
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="48" height="48" alt="Photoshop" />
+      </a>
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="Adobe Illustrator" />
+      </a>
+      <br>Adobe Illustrator
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/120px-Adobe_XD_CC_icon.svg.png?20210729021535" width="48" height="48" alt="Adobe XD" />
+      </a>
+      <br>Adobe XD
+    </td>
+  </tr>
+</table>
+
+---
+
  
 
 <p align="left"> 
