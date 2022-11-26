@@ -22,7 +22,7 @@
 
 ### :blush: Talking about Personal Stuffs:
 
-<img align="right" height="250" width="400" alt="Abdullah-Al Firoz" src="assets/profile.gif" />
+<img align="right" height="250" width="400" alt="Abdullah-Al Firoz" src="profile.gif" />
 
 -  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 -  📰 &nbsp; Reading tech blogs whenever possible.
