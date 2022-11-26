@@ -202,13 +202,23 @@ const abdullah-al-feroz = {
 
 ---
 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/abdullah-al-feroz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullah-al-feroz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullah-al-feroz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 
-<p align="left"> 
-  <a href="https://github.com/abdullah-al-feroz">
+<!-- <p align="left"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-feroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200em" width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-feroz&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+</p> -->
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullah-al-feroz)  
 
