@@ -1,25 +1,17 @@
-### Hi 👋, I am Md. Abdullah-Al Firoz
-#### Full Stack Developer.
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you </h1>
 
-
-I'm Firoz from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native. I also enjoy c#, asp.net, asp.net core, MVC, API in general.
-
-Skills and Experience:
-
-*⚛ React
-
-*💻 C#
-
-*💻 asp.net
-
-*💻 MVC
-
-*💻 asp.net core
-
-*💻 MS SQL
-
-*💻 API
-
+<p align="center"> 
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=tanvirfaysal11" alt="Visitor"/>
+    <img src="https://komarev.com/ghpvc/?username=abdullah-al-feroz" alt="abdullah-al-feroz"/>       
+    <a href="https://github.com/abdullah-al-feroz?tab=repositories" target="_blank"><img src="" alt="Repos"/></a> 
+    <img src="https://badges.pufler.dev/years/abdullah-al-feroz" alt="Active_Years"/>  
+    <a href="https://github.com/tanvir-faysal-xeon/abdullah-al-feroz" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/abdullah-al-feroz" alt="commits"/> 
+    <a href="https://github.com/abdullah-al-feroz?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/abdullah-al-feroz?color=4C1&logo=github"></a>
+    <a href="https://github.com/tanvirfaysal11/tanvirfaysal11" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/abdullah-al-feroz/abdullah-al-feroz?label=Profile%20update&style=fflat-square"></a>
+    <!--<a href="https://github.com/abdullah-al-feroz" target="_blank"><img alt="abdullah-al-feroz" src="https://badges.pufler.dev/visits/abdullah-al-feroz/abdullah-al-feroz?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
+    <!--<img abdullah-al-feroz" alt="abdullah-al-feroz"/>-->
+    <!--<img src="https://readme-jokes.vercel.app/api" alt="abdullah-al-feroz"/>-->
+</p> 
 
 ## 🚀 Languages and Tools:
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p><br>
