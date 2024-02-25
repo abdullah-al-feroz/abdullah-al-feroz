@@ -116,7 +116,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48" height="48" alt="Github" />
       </a>
       <br>Github
     </td>
