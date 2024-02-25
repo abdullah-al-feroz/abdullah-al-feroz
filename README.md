@@ -164,9 +164,9 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://w7.pngwing.com/pngs/797/414/png-transparent-microsoft-sql-server-computer-servers-microsoft-angle-text-logo.png" />
+        <img src="https://e7.pngegg.com/pngimages/1/866/png-clipart-microsoft-sql-server-sql-server-management-studio-computer-servers-microsoft-angle-text.png" />
       </a>
-      <br>Microsoft SQL Server
+      <br>Mssql Server
     </td>
     <td align="center" width="96">
       <a href="#" >
