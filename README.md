@@ -166,13 +166,13 @@
       <a href="#" >
         <img src="https://e7.pngegg.com/pngimages/1/866/png-clipart-microsoft-sql-server-sql-server-management-studio-computer-servers-microsoft-angle-text.png" />
       </a>
-      <br>Mssql Server
+      <br>Mssql
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png" width="48" height="48" alt="Adobe XD" />
+        <img src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png" width="48" height="48" alt="MySQL" />
       </a>
-      <br>Adobe XD
+      <br>MySQL
     </td>
   </tr>
 </table>
