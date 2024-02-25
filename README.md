@@ -140,9 +140,9 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="48" height="48" alt="Wordpress" />
+        <img src="[https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg]" width="48" height="48" alt="Wordpress" />
       </a>
-      <br>Wordpress
+      <br>Tailwind CSS
     </td>
     <td align="center" width="96">
       <a href="#" >
