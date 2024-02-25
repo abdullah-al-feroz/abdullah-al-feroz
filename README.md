@@ -170,7 +170,7 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/120px-Adobe_XD_CC_icon.svg.png?20210729021535" width="48" height="48" alt="Adobe XD" />
+        <img src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png" width="48" height="48" alt="Adobe XD" />
       </a>
       <br>Adobe XD
     </td>
