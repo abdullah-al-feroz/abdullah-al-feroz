@@ -66,7 +66,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="NextJS" />
+        <img src="https://icons8.com/icon/yUdJlcKanVbh/next.js" width="48" height="48" alt="NextJS" />
       </a>
       <br>NextJS
     </td>
