@@ -66,7 +66,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src=https://upload.wikimedia.org/wikipedia/commons/9/99/next.png.svg" width="48" height="48" alt="NextJS" />
+        <img src="https://upload.vectorlogo.zone/logos/nextjs/images/cf48b8f7-01c5-4564-a4e7-3854b6aea45c.svg" width="48" height="48" alt="NextJS" />
       </a>
       <br>NextJS
     </td>
@@ -110,7 +110,7 @@
     <tr>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://www.kindpng.com/picc/m/765-7652239_react-native-svg-logo-hd-png-download.png" width="48" height="48" alt="React Native" />
+        <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" width="48" height="48" alt="React Native" />
       </a>
       <br>React Native
     </td>
@@ -128,7 +128,7 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="assets/mui.png" width="48" height="48" alt="Material Ui" />
+        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="48" height="48" alt="Material Ui" />
       </a>
       <br>Material Ui
     </td>
@@ -146,9 +146,9 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://img.icons8.com/color/480/000000/woocommerce.png" width="48" height="48" alt="WooCommerce" />
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48" alt="Azure" />
       </a>
-      <br>WooCommerce
+      <br>Microsoft Azure
     </td>
      <td align="center" width="96">
       <a href="#" >
@@ -158,15 +158,15 @@
     </td>
      <td align="center" width="96">
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="48" height="48" alt="Photoshop" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" width="48" height="48" alt="CSharp" />
       </a>
-      <br>Photoshop
+      <br>C#
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="Adobe Illustrator" />
+        <img src="https://w7.pngwing.com/pngs/797/414/png-transparent-microsoft-sql-server-computer-servers-microsoft-angle-text-logo.png" />
       </a>
-      <br>Adobe Illustrator
+      <br>Microsoft SQL Server
     </td>
     <td align="center" width="96">
       <a href="#" >
