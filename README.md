@@ -4,7 +4,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=abdullah-al-feroz" alt="Visitor"/>
     <img src="https://komarev.com/ghpvc/?username=abdullah-al-feroz" alt="abdullah-al-feroz"/>       
     <a href="https://github.com/abdullah-al-feroz?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/abdullah-al-feroz" alt="Repos"/></a> 
-    <img src="https://badges.pufler.dev/years/abdullah-al-feroz" alt="Active_Years"/>  
+    <img src="https://img.shields.io/badge/Active%20Since-2020-blue" alt="Active Since"/>  
     <a href="https://github.com/abdullah-al-feroz" target="_blank"><img src="https://img.shields.io/github/commit-activity/m/abdullah-al-feroz/abdullah-al-feroz?label=Commits&logo=github" alt="commits"/> 
     <a href="https://github.com/abdullah-al-feroz?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/abdullah-al-feroz?color=4C1&logo=github"></a>
     <a href="https://github.com/abdullah-al-feroz" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/abdullah-al-feroz/abdullah-al-feroz?label=Profile%20update&style=fflat-square"></a>
