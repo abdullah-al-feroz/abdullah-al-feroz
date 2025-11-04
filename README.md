@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=abdullah-al-feroz" alt="abdullah-al-feroz"/>       
     <a href="https://github.com/abdullah-al-feroz?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/abdullah-al-feroz" alt="Repos"/></a> 
     <img src="https://badges.pufler.dev/years/abdullah-al-feroz" alt="Active_Years"/>  
-    <a href="https://github.com/abdullah-al-feroz" target="_blank"><img src="https://img.shields.io/github/commit-activity/m/abdullah-al-feroz/abdullah-al-feroz?label=Monthly%20Commits&logo=github" alt="commits"/> 
+    <a href="https://github.com/abdullah-al-feroz" target="_blank"><img src="https://img.shields.io/github/commit-activity/m/abdullah-al-feroz/abdullah-al-feroz?label=Commits&logo=github" alt="commits"/> 
     <a href="https://github.com/abdullah-al-feroz?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/abdullah-al-feroz?color=4C1&logo=github"></a>
     <a href="https://github.com/abdullah-al-feroz" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/abdullah-al-feroz/abdullah-al-feroz?label=Profile%20update&style=fflat-square"></a>
     <!--<a href="https://github.com/abdullah-al-feroz" target="_blank"><img alt="abdullah-al-feroz" src="https://badges.pufler.dev/visits/abdullah-al-feroz/abdullah-al-feroz?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
